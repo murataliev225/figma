@@ -1,0 +1,129 @@
+.header{
+    width: 90vw;
+    height: 20vh;
+    display: flex;
+}
+
+.sitename{
+    width: 5vw;
+    height: 4vh;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+.site{
+    font-size: 1em;
+    color: black;
+}
+
+.page{
+    width: 25vw;
+    height: 4vh;
+    position: absolute;
+    left: 60rem;
+    top: 3rem;
+}
+
+.page1{
+    font-size: 1em;
+    margin-left: 2rem;
+    color: black;
+}
+
+.button{
+    width: 5vw;
+    height: 4vh;
+    margin-left: 2rem;
+    background-color: black;
+    color: #ffff;
+    border-radius: 8px;
+    border: none;
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 2.5rem;
+    flex-wrap: wrap;
+}
+
+.text{
+    width: 30vw;
+    height: 60vh;
+    margin-left: 2rem;
+    text-decoration: none;
+}
+
+.image img{
+    width: 31vw;
+    border-radius: 0.5rem;
+}
+
+footer {
+    background-color: #f8f8f8;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.abu{
+    font-size: 2rem;
+}
+
+.abu1{
+    color: gray;
+}
+
+.p{
+    font-size: larger;
+}
+
+.footer{
+    width: 90vw;
+    height: 20vh;
+
+    display: flex;
+}
+
+.site{
+    width: 20vw;
+    height: 20vh;
+
+}
+
+.face{
+    width: 1.5vw;
+    margin-top: 2rem;
+
+}
+
+.ins{
+    width: 1.5vw;
+    margin-top: 2rem;
+}
+
+.me{
+    width: 1.5rem;
+    margin-top: 2rem;
+}
+
+.taa{
+    width: 15vw;
+    height: 20vh;
+
+}
+
+.mee{
+    width: 15vh;
+    height: 20vh;
+
+    margin-left: 4rem;
+}
+
+.abu10{
+    width: 15vh;
+    height: 20vw;
+    margin-left: 4rem;
+
+    
+}
